@@ -121,3 +121,10 @@
   </footer>
 </body>
 </index.html>
+</head>
+<body>
+  <h1>Welcome to Dinero Tools</h1>
+  <p>This site is live on GitHub Pages!</p>
+</body>
+</html>
+
