@@ -120,4 +120,4 @@
     <p>&copy; 2025 DINERO TOOLS TECH SUPPORT. All rights reserved.</p>
   </footer>
 </body>
-</html>
+</index.html>
